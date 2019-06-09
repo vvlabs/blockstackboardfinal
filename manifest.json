@@ -1,0 +1,10 @@
+{
+  "name": "WhiteBoard",
+  "start_url": "http://blockstackboard.org",
+  "description": "Whiteboard with Blockstack",
+  "icons": [{
+    "src": "https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/bf/1b/fc/bf1bfc54-409d-6432-0ba3-3e015792ad1c/source/192x192.jpg",
+    "sizes": "192x192",
+    "type": "image/jpg"
+  }]
+}
